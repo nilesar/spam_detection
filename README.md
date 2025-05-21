@@ -25,7 +25,7 @@ A Streamlit-based web application that classifies text messages as **Spam** or *
 
 ├── README.md # Project documentation
 
-├── requirements.txt # Required dependencies
+
 
 
 
