@@ -17,9 +17,13 @@ A Streamlit-based web application that classifies text messages as **Spam** or *
 
 📦spam_classifier_app
 ├── app.py # Main Streamlit app
+
 ├── model.pkl # Trained ML model (MNB)
+
 ├── vectorizer.pkl # TF-IDF Vectorizer
+
 ├── README.md # Project documentation
+
 ├── requirements.txt # Required dependencies
 
 
