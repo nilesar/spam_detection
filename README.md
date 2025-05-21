@@ -25,21 +25,17 @@ A Streamlit-based web application that classifies text messages as **Spam** or *
 
 
 
-## 🔍 Model Selection
-
-Tested multiple classifiers:
-🔍 Model Selection
+## 🔍 Model Selection  
 Tested multiple classifiers:
 
-+--------------------------+----------+------------------------------------+
-| Model | Accuracy | Comments |
-+--------------------------+----------+------------------------------------+
-| Multinomial Naive Bayes | ✅ Best | Fast, simple, accurate |
-| Logistic Regression | Good | Slightly less accurate |
-| SVM | Avg | Slow training |
-| Random Forest | Avg | Overfitting on small data |
-| XGBoost | Avg | Slow, little accuracy gain |
-+--------------------------+----------+------------------------------------+
+| Model                    | Accuracy | Comments                         |
+|--------------------------|----------|----------------------------------|
+| Multinomial Naive Bayes | ✅ Best  | Fast, simple, accurate           |
+| Logistic Regression      | Good     | Slightly less accurate           |
+| SVM                      | Avg      | Slow training                    |
+| Random Forest            | Avg      | Overfitting on small data        |
+| XGBoost                  | Avg      | Slow, little accuracy gain       |
+
 
 
 
